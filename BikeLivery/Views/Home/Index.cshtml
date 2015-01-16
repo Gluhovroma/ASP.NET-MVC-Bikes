@@ -1,0 +1,104 @@
+﻿@{
+    
+    //ViewBag.Title = "Home Page";
+}
+
+@section featured {
+    <section class="featured">
+        <div class="content-wrapper">
+            <hgroup class="title">
+                <h1>@ViewBag.Title.</h1>
+            </hgroup>
+            
+        </div>
+    </section>
+}
+<h3>Историия аредны велосипедов:</h3>
+<div style="width:30%;">
+    @using (Ajax.BeginForm("FilterByBike", "Home", FormMethod.Post, new AjaxOptions { InsertionMode = InsertionMode.Replace, 
+                                                                                      UpdateTargetId = "BikesHistory" }))
+    {
+        <select name ="BikeFilter" id="BikeFilter">
+            <option value="-1"> Все модели </option> 
+            @foreach (var Bike in ViewBag.Bikes)
+            {
+                <option value="@Bike.BikeID">@Bike.InventoryNum</option>
+            }
+        </select>
+    }
+</div>
+<div style="width:70%; float:left;">
+    <table id="BikesHistory">
+        @Html.Partial("AjaxView")
+        @*<tr>
+            <td>Фамилия</td>   
+            <td>Категория велосипеда</td>
+            <td>Модель</td>  
+            <td>Старт проката</td>  
+            <td>Конец проката</td>  
+            <td>Начальная точка</td>  
+            <td>Конечная точка</td>  
+            <td>Статус</td>
+            <td>Стоимость</td>  
+
+        </tr>
+        @foreach (var Order in ViewBag.Orders)
+        {
+            <tr bikeid="@Order.BikeID">
+                <td>@Order.Client</td>
+                <td>@Order.ClassName</td>
+                <td>@Order.ModelName</td>
+                <td>@Order.StartDateTime</td>
+                <td>@Order.EndDateTime</td>
+                <td>@Order.LiveryStart</td>
+                <td>@Order.LiveryEnd</td>
+                <td>@{string stat = (Order.IsPassed == 1) ? "возвращен" : "невозвращен";} @stat</td>
+                <td>@Order.TotalPrice</td>
+            </tr>
+        }*@
+    </table>
+</div>
+
+@section Scripts 
+{
+    @Scripts.Render("~/bundles/jqueryval")
+    <script>
+        $(document).ready(function () {
+            $("#BikeFilter").change(function () {
+
+                //var id = $(this).attr("value");
+
+                $(this).parents('form').submit();
+
+
+                @*$.ajax({
+                    url: '@Url.Action("FilterByBike")',
+                    type: "POST",
+                    data: { "ID": id },
+                    success: function (data) {
+                        //Fill div with results
+                        $("#result_tb").html(data);
+                    }
+
+
+                });*@
+                });
+        });
+    </script>
+
+}    
+@*<script src="http://code.jquery.com/jquery-2.1.1.min.js"></script>
+<script>
+    $(document).ready(function() {
+        $("#BikeFilter").change(function () {
+
+            var id = $(this).attr("value");
+            alert(id);
+            $.ajax({
+                url: '@Url.Action("FilterByBike")',
+                type: "POST",
+                data: { "ID": id }
+            });
+        });
+    });
+</script>*@

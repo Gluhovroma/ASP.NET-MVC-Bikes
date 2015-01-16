@@ -1,0 +1,60 @@
+﻿@{
+    
+    //ViewBag.Title = "Home Page";
+}
+
+@section featured {
+    <section class="featured">
+        <div class="content-wrapper">
+            <hgroup class="title">
+                <h1>@ViewBag.Title.</h1>
+            </hgroup>
+            
+        </div>
+    </section>
+}
+<h3>Историия аредны велосипедов:</h3>
+<div style="width:70%; float:left;">
+    <table>
+        <tr>   <td>Марка</td>  <td>Старт проката</td>  <td>Конец проката</td>  <td>Начальная точка</td>  <td>Конечная точка</td>  <td>Статус</td>   </tr>
+        @foreach (var ord in ViewBag.orders)
+        {
+            <tr bikeid="@ord.bikes">
+                <td>@ord.mark</td>
+                <td>@ord.start_t</td>
+                <td>@ord.end_t</td>
+                <td>@ord.startloc</td>
+                <td>@ord.endloc</td>
+                <td>@{string stat = (ord.status == 1) ? "возвращен" : "невозвращен";} @stat</td>
+            </tr>
+
+        }
+
+    </table>
+</div>
+<div style="width:30%; float:left;">
+        <select id="BikeFilter">
+            <option value="" disabled="disabled" selected="selected">Please select a name</option>
+            @foreach (var bike in ViewBag.bikes)
+            {
+                <option value="@bike.BikeId">@bike.Name</option>
+            }
+        </select>
+</div>
+<script src="http://code.jquery.com/jquery-2.1.1.min.js"></script>
+<script>
+    $(document).ready(function() {
+        $("#BikeFilter").change(function () {
+
+            var id = $(this).attr("value");
+            alert(id);
+            $.ajax({
+                url: '@Url.Action("FilterByBike")',
+                type: "POST",
+                data: { "ID": id }
+
+
+            });
+        });
+    });
+</script>

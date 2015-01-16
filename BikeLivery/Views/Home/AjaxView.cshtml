@@ -1,0 +1,28 @@
+﻿       <tr>
+            <td>Фамилия</td> 
+            <td>Номер велосипеда</td>  
+            <td>Категория велосипеда</td>
+            <td>Модель</td>  
+            <td>Старт проката</td>  
+            <td>Конец проката</td>  
+            <td>Начальная точка</td>  
+            <td>Конечная точка</td>  
+            <td>Статус</td>
+            <td>Стоимость</td>  
+
+        </tr>
+        @foreach (var Order in ViewBag.Orders)
+        {
+            <tr bikeid="@Order.BikeID">
+                <td>@Order.Client</td>
+                <td>@Order.InventoryNumber</td>
+                <td>@Order.ClassName</td>
+                <td>@Order.ModelName</td>
+                <td>@Order.StartDateTime</td>
+                <td>@Order.EndDateTime</td>
+                <td>@Order.LiveryStart</td>
+                <td>@Order.LiveryEnd</td>
+                <td>@Order.Status</td>
+                <td>@Order.TotalPrice</td>
+            </tr>
+        }

@@ -1,0 +1,240 @@
+C:\Users\Admin\documents\visual studio 2013\Projects\BikeLivery\BikeLivery\obj\Debug\BikeLivery.csprojResolveAssemblyReference.cache
+C:\Users\Admin\documents\visual studio 2013\Projects\BikeLivery\BikeLivery\bin\BikeLivery.dll.config
+C:\Users\Admin\documents\visual studio 2013\Projects\BikeLivery\BikeLivery\bin\BikeLivery.dll
+C:\Users\Admin\documents\visual studio 2013\Projects\BikeLivery\BikeLivery\bin\BikeLivery.pdb
+C:\Users\Admin\documents\visual studio 2013\Projects\BikeLivery\BikeLivery\bin\Antlr3.Runtime.dll
+C:\Users\Admin\documents\visual studio 2013\Projects\BikeLivery\BikeLivery\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\Admin\documents\visual studio 2013\Projects\BikeLivery\BikeLivery\bin\DotNetOpenAuth.Core.dll
+C:\Users\Admin\documents\visual studio 2013\Projects\BikeLivery\BikeLivery\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\Admin\documents\visual studio 2013\Projects\BikeLivery\BikeLivery\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\Admin\documents\visual studio 2013\Projects\BikeLivery\BikeLivery\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\Admin\documents\visual studio 2013\Projects\BikeLivery\BikeLivery\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\Admin\documents\visual studio 2013\Projects\BikeLivery\BikeLivery\bin\EntityFramework.dll
+C:\Users\Admin\documents\visual studio 2013\Projects\BikeLivery\BikeLivery\bin\Microsoft.Data.Edm.dll
+C:\Users\Admin\documents\visual studio 2013\Projects\BikeLivery\BikeLivery\bin\Microsoft.Data.OData.dll
+C:\Users\Admin\documents\visual studio 2013\Projects\BikeLivery\BikeLivery\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Admin\documents\visual studio 2013\Projects\BikeLivery\BikeLivery\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\Admin\documents\visual studio 2013\Projects\BikeLivery\BikeLivery\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\Admin\documents\visual studio 2013\Projects\BikeLivery\BikeLivery\bin\Newtonsoft.Json.dll
+C:\Users\Admin\documents\visual studio 2013\Projects\BikeLivery\BikeLivery\bin\System.Spatial.dll
+C:\Users\Admin\documents\visual studio 2013\Projects\BikeLivery\BikeLivery\bin\System.Web.Helpers.dll
+C:\Users\Admin\documents\visual studio 2013\Projects\BikeLivery\BikeLivery\bin\System.Web.Http.OData.dll
+C:\Users\Admin\documents\visual studio 2013\Projects\BikeLivery\BikeLivery\bin\System.Web.Mvc.dll
+C:\Users\Admin\documents\visual studio 2013\Projects\BikeLivery\BikeLivery\bin\System.Web.Optimization.dll
+C:\Users\Admin\documents\visual studio 2013\Projects\BikeLivery\BikeLivery\bin\System.Web.Razor.dll
+C:\Users\Admin\documents\visual studio 2013\Projects\BikeLivery\BikeLivery\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Admin\documents\visual studio 2013\Projects\BikeLivery\BikeLivery\bin\System.Web.WebPages.dll
+C:\Users\Admin\documents\visual studio 2013\Projects\BikeLivery\BikeLivery\bin\System.Web.WebPages.Razor.dll
+C:\Users\Admin\documents\visual studio 2013\Projects\BikeLivery\BikeLivery\bin\WebGrease.dll
+C:\Users\Admin\documents\visual studio 2013\Projects\BikeLivery\BikeLivery\bin\WebMatrix.Data.dll
+C:\Users\Admin\documents\visual studio 2013\Projects\BikeLivery\BikeLivery\bin\WebMatrix.WebData.dll
+C:\Users\Admin\documents\visual studio 2013\Projects\BikeLivery\BikeLivery\bin\EntityFramework.xml
+C:\Users\Admin\documents\visual studio 2013\Projects\BikeLivery\BikeLivery\bin\Newtonsoft.Json.xml
+C:\Users\Admin\documents\visual studio 2013\Projects\BikeLivery\BikeLivery\bin\System.Web.Helpers.xml
+C:\Users\Admin\documents\visual studio 2013\Projects\BikeLivery\BikeLivery\bin\System.Web.Mvc.xml
+C:\Users\Admin\documents\visual studio 2013\Projects\BikeLivery\BikeLivery\bin\System.Web.Razor.xml
+C:\Users\Admin\documents\visual studio 2013\Projects\BikeLivery\BikeLivery\bin\System.Web.WebPages.xml
+C:\Users\Admin\documents\visual studio 2013\Projects\BikeLivery\BikeLivery\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Admin\documents\visual studio 2013\Projects\BikeLivery\BikeLivery\bin\System.Web.WebPages.Razor.xml
+C:\Users\Admin\documents\visual studio 2013\Projects\BikeLivery\BikeLivery\bin\WebMatrix.Data.xml
+C:\Users\Admin\documents\visual studio 2013\Projects\BikeLivery\BikeLivery\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\Admin\documents\visual studio 2013\Projects\BikeLivery\BikeLivery\bin\WebMatrix.WebData.xml
+C:\Users\Admin\documents\visual studio 2013\Projects\BikeLivery\BikeLivery\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\Admin\documents\visual studio 2013\Projects\BikeLivery\BikeLivery\bin\DotNetOpenAuth.Core.xml
+C:\Users\Admin\documents\visual studio 2013\Projects\BikeLivery\BikeLivery\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Admin\documents\visual studio 2013\Projects\BikeLivery\BikeLivery\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\Admin\documents\visual studio 2013\Projects\BikeLivery\BikeLivery\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\Admin\documents\visual studio 2013\Projects\BikeLivery\BikeLivery\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Admin\documents\visual studio 2013\Projects\BikeLivery\BikeLivery\bin\System.Web.Http.OData.xml
+C:\Users\Admin\documents\visual studio 2013\Projects\BikeLivery\BikeLivery\bin\Microsoft.Data.Edm.xml
+C:\Users\Admin\documents\visual studio 2013\Projects\BikeLivery\BikeLivery\bin\Microsoft.Data.OData.xml
+C:\Users\Admin\documents\visual studio 2013\Projects\BikeLivery\BikeLivery\bin\System.Spatial.xml
+C:\Users\Admin\documents\visual studio 2013\Projects\BikeLivery\BikeLivery\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\Admin\documents\visual studio 2013\Projects\BikeLivery\BikeLivery\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\Admin\documents\visual studio 2013\Projects\BikeLivery\BikeLivery\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\Admin\documents\visual studio 2013\Projects\BikeLivery\BikeLivery\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\Admin\documents\visual studio 2013\Projects\BikeLivery\BikeLivery\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\Admin\documents\visual studio 2013\Projects\BikeLivery\BikeLivery\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\Admin\documents\visual studio 2013\Projects\BikeLivery\BikeLivery\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\Admin\documents\visual studio 2013\Projects\BikeLivery\BikeLivery\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\Admin\documents\visual studio 2013\Projects\BikeLivery\BikeLivery\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\Admin\documents\visual studio 2013\Projects\BikeLivery\BikeLivery\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\Admin\documents\visual studio 2013\Projects\BikeLivery\BikeLivery\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\Admin\documents\visual studio 2013\Projects\BikeLivery\BikeLivery\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\Admin\documents\visual studio 2013\Projects\BikeLivery\BikeLivery\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\Admin\documents\visual studio 2013\Projects\BikeLivery\BikeLivery\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\Admin\documents\visual studio 2013\Projects\BikeLivery\BikeLivery\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\Admin\documents\visual studio 2013\Projects\BikeLivery\BikeLivery\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\Admin\documents\visual studio 2013\Projects\BikeLivery\BikeLivery\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\Admin\documents\visual studio 2013\Projects\BikeLivery\BikeLivery\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\Admin\documents\visual studio 2013\Projects\BikeLivery\BikeLivery\bin\de\System.Spatial.resources.dll
+C:\Users\Admin\documents\visual studio 2013\Projects\BikeLivery\BikeLivery\bin\es\System.Spatial.resources.dll
+C:\Users\Admin\documents\visual studio 2013\Projects\BikeLivery\BikeLivery\bin\fr\System.Spatial.resources.dll
+C:\Users\Admin\documents\visual studio 2013\Projects\BikeLivery\BikeLivery\bin\it\System.Spatial.resources.dll
+C:\Users\Admin\documents\visual studio 2013\Projects\BikeLivery\BikeLivery\bin\ja\System.Spatial.resources.dll
+C:\Users\Admin\documents\visual studio 2013\Projects\BikeLivery\BikeLivery\bin\ko\System.Spatial.resources.dll
+C:\Users\Admin\documents\visual studio 2013\Projects\BikeLivery\BikeLivery\bin\ru\System.Spatial.resources.dll
+C:\Users\Admin\documents\visual studio 2013\Projects\BikeLivery\BikeLivery\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\Admin\documents\visual studio 2013\Projects\BikeLivery\BikeLivery\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\Admin\documents\visual studio 2013\Projects\BikeLivery\BikeLivery\obj\Debug\BikeLivery.dll
+C:\Users\Admin\documents\visual studio 2013\Projects\BikeLivery\BikeLivery\obj\Debug\BikeLivery.pdb
+C:\Users\Роман\Desktop\BikeLivery\BikeLivery\bin\BikeLivery.dll
+C:\Users\Роман\Desktop\BikeLivery\BikeLivery\bin\BikeLivery.pdb
+C:\Users\Роман\Desktop\BikeLivery\BikeLivery\bin\Antlr3.Runtime.dll
+C:\Users\Роман\Desktop\BikeLivery\BikeLivery\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\Роман\Desktop\BikeLivery\BikeLivery\bin\DotNetOpenAuth.Core.dll
+C:\Users\Роман\Desktop\BikeLivery\BikeLivery\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\Роман\Desktop\BikeLivery\BikeLivery\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\Роман\Desktop\BikeLivery\BikeLivery\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\Роман\Desktop\BikeLivery\BikeLivery\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\Роман\Desktop\BikeLivery\BikeLivery\bin\EntityFramework.dll
+C:\Users\Роман\Desktop\BikeLivery\BikeLivery\bin\Microsoft.Data.Edm.dll
+C:\Users\Роман\Desktop\BikeLivery\BikeLivery\bin\Microsoft.Data.OData.dll
+C:\Users\Роман\Desktop\BikeLivery\BikeLivery\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Роман\Desktop\BikeLivery\BikeLivery\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\Роман\Desktop\BikeLivery\BikeLivery\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\Роман\Desktop\BikeLivery\BikeLivery\bin\Newtonsoft.Json.dll
+C:\Users\Роман\Desktop\BikeLivery\BikeLivery\bin\System.Spatial.dll
+C:\Users\Роман\Desktop\BikeLivery\BikeLivery\bin\System.Web.Helpers.dll
+C:\Users\Роман\Desktop\BikeLivery\BikeLivery\bin\System.Web.Http.OData.dll
+C:\Users\Роман\Desktop\BikeLivery\BikeLivery\bin\System.Web.Mvc.dll
+C:\Users\Роман\Desktop\BikeLivery\BikeLivery\bin\System.Web.Optimization.dll
+C:\Users\Роман\Desktop\BikeLivery\BikeLivery\bin\System.Web.Razor.dll
+C:\Users\Роман\Desktop\BikeLivery\BikeLivery\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Роман\Desktop\BikeLivery\BikeLivery\bin\System.Web.WebPages.dll
+C:\Users\Роман\Desktop\BikeLivery\BikeLivery\bin\System.Web.WebPages.Razor.dll
+C:\Users\Роман\Desktop\BikeLivery\BikeLivery\bin\WebGrease.dll
+C:\Users\Роман\Desktop\BikeLivery\BikeLivery\bin\WebMatrix.Data.dll
+C:\Users\Роман\Desktop\BikeLivery\BikeLivery\bin\WebMatrix.WebData.dll
+C:\Users\Роман\Desktop\BikeLivery\BikeLivery\bin\EntityFramework.xml
+C:\Users\Роман\Desktop\BikeLivery\BikeLivery\bin\Newtonsoft.Json.xml
+C:\Users\Роман\Desktop\BikeLivery\BikeLivery\bin\System.Web.Helpers.xml
+C:\Users\Роман\Desktop\BikeLivery\BikeLivery\bin\System.Web.Mvc.xml
+C:\Users\Роман\Desktop\BikeLivery\BikeLivery\bin\System.Web.Razor.xml
+C:\Users\Роман\Desktop\BikeLivery\BikeLivery\bin\System.Web.WebPages.xml
+C:\Users\Роман\Desktop\BikeLivery\BikeLivery\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Роман\Desktop\BikeLivery\BikeLivery\bin\System.Web.WebPages.Razor.xml
+C:\Users\Роман\Desktop\BikeLivery\BikeLivery\bin\WebMatrix.Data.xml
+C:\Users\Роман\Desktop\BikeLivery\BikeLivery\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\Роман\Desktop\BikeLivery\BikeLivery\bin\WebMatrix.WebData.xml
+C:\Users\Роман\Desktop\BikeLivery\BikeLivery\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\Роман\Desktop\BikeLivery\BikeLivery\bin\DotNetOpenAuth.Core.xml
+C:\Users\Роман\Desktop\BikeLivery\BikeLivery\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Роман\Desktop\BikeLivery\BikeLivery\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\Роман\Desktop\BikeLivery\BikeLivery\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\Роман\Desktop\BikeLivery\BikeLivery\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Роман\Desktop\BikeLivery\BikeLivery\bin\System.Web.Http.OData.xml
+C:\Users\Роман\Desktop\BikeLivery\BikeLivery\bin\Microsoft.Data.Edm.xml
+C:\Users\Роман\Desktop\BikeLivery\BikeLivery\bin\Microsoft.Data.OData.xml
+C:\Users\Роман\Desktop\BikeLivery\BikeLivery\bin\System.Spatial.xml
+C:\Users\Роман\Desktop\BikeLivery\BikeLivery\bin\ru\WebMatrix.Data.resources.dll
+C:\Users\Роман\Desktop\BikeLivery\BikeLivery\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\Роман\Desktop\BikeLivery\BikeLivery\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\Роман\Desktop\BikeLivery\BikeLivery\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\Роман\Desktop\BikeLivery\BikeLivery\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\Роман\Desktop\BikeLivery\BikeLivery\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\Роман\Desktop\BikeLivery\BikeLivery\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\Роман\Desktop\BikeLivery\BikeLivery\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\Роман\Desktop\BikeLivery\BikeLivery\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\Роман\Desktop\BikeLivery\BikeLivery\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\Роман\Desktop\BikeLivery\BikeLivery\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\Роман\Desktop\BikeLivery\BikeLivery\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\Роман\Desktop\BikeLivery\BikeLivery\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\Роман\Desktop\BikeLivery\BikeLivery\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\Роман\Desktop\BikeLivery\BikeLivery\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\Роман\Desktop\BikeLivery\BikeLivery\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\Роман\Desktop\BikeLivery\BikeLivery\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\Роман\Desktop\BikeLivery\BikeLivery\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\Роман\Desktop\BikeLivery\BikeLivery\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\Роман\Desktop\BikeLivery\BikeLivery\bin\de\System.Spatial.resources.dll
+C:\Users\Роман\Desktop\BikeLivery\BikeLivery\bin\es\System.Spatial.resources.dll
+C:\Users\Роман\Desktop\BikeLivery\BikeLivery\bin\fr\System.Spatial.resources.dll
+C:\Users\Роман\Desktop\BikeLivery\BikeLivery\bin\it\System.Spatial.resources.dll
+C:\Users\Роман\Desktop\BikeLivery\BikeLivery\bin\ja\System.Spatial.resources.dll
+C:\Users\Роман\Desktop\BikeLivery\BikeLivery\bin\ko\System.Spatial.resources.dll
+C:\Users\Роман\Desktop\BikeLivery\BikeLivery\bin\ru\System.Spatial.resources.dll
+C:\Users\Роман\Desktop\BikeLivery\BikeLivery\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\Роман\Desktop\BikeLivery\BikeLivery\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\Роман\Desktop\BikeLivery\BikeLivery\obj\Debug\BikeLivery.csprojResolveAssemblyReference.cache
+C:\Users\Роман\Desktop\BikeLivery\BikeLivery\obj\Debug\BikeLivery.dll
+C:\Users\Роман\Desktop\BikeLivery\BikeLivery\obj\Debug\BikeLivery.pdb
+D:\Git\BikeLivery\BikeLivery\bin\BikeLivery.dll
+D:\Git\BikeLivery\BikeLivery\bin\BikeLivery.pdb
+D:\Git\BikeLivery\BikeLivery\bin\Antlr3.Runtime.dll
+D:\Git\BikeLivery\BikeLivery\bin\DotNetOpenAuth.AspNet.dll
+D:\Git\BikeLivery\BikeLivery\bin\DotNetOpenAuth.Core.dll
+D:\Git\BikeLivery\BikeLivery\bin\DotNetOpenAuth.OAuth.Consumer.dll
+D:\Git\BikeLivery\BikeLivery\bin\DotNetOpenAuth.OAuth.dll
+D:\Git\BikeLivery\BikeLivery\bin\DotNetOpenAuth.OpenId.dll
+D:\Git\BikeLivery\BikeLivery\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+D:\Git\BikeLivery\BikeLivery\bin\EntityFramework.dll
+D:\Git\BikeLivery\BikeLivery\bin\Microsoft.Data.Edm.dll
+D:\Git\BikeLivery\BikeLivery\bin\Microsoft.Data.OData.dll
+D:\Git\BikeLivery\BikeLivery\bin\Microsoft.Web.Infrastructure.dll
+D:\Git\BikeLivery\BikeLivery\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+D:\Git\BikeLivery\BikeLivery\bin\Microsoft.Web.WebPages.OAuth.dll
+D:\Git\BikeLivery\BikeLivery\bin\Newtonsoft.Json.dll
+D:\Git\BikeLivery\BikeLivery\bin\System.Spatial.dll
+D:\Git\BikeLivery\BikeLivery\bin\System.Web.Helpers.dll
+D:\Git\BikeLivery\BikeLivery\bin\System.Web.Http.OData.dll
+D:\Git\BikeLivery\BikeLivery\bin\System.Web.Mvc.dll
+D:\Git\BikeLivery\BikeLivery\bin\System.Web.Optimization.dll
+D:\Git\BikeLivery\BikeLivery\bin\System.Web.Razor.dll
+D:\Git\BikeLivery\BikeLivery\bin\System.Web.WebPages.Deployment.dll
+D:\Git\BikeLivery\BikeLivery\bin\System.Web.WebPages.dll
+D:\Git\BikeLivery\BikeLivery\bin\System.Web.WebPages.Razor.dll
+D:\Git\BikeLivery\BikeLivery\bin\WebGrease.dll
+D:\Git\BikeLivery\BikeLivery\bin\WebMatrix.Data.dll
+D:\Git\BikeLivery\BikeLivery\bin\WebMatrix.WebData.dll
+D:\Git\BikeLivery\BikeLivery\bin\EntityFramework.xml
+D:\Git\BikeLivery\BikeLivery\bin\Newtonsoft.Json.xml
+D:\Git\BikeLivery\BikeLivery\bin\System.Web.Helpers.xml
+D:\Git\BikeLivery\BikeLivery\bin\System.Web.Mvc.xml
+D:\Git\BikeLivery\BikeLivery\bin\System.Web.Razor.xml
+D:\Git\BikeLivery\BikeLivery\bin\System.Web.WebPages.xml
+D:\Git\BikeLivery\BikeLivery\bin\System.Web.WebPages.Deployment.xml
+D:\Git\BikeLivery\BikeLivery\bin\System.Web.WebPages.Razor.xml
+D:\Git\BikeLivery\BikeLivery\bin\WebMatrix.Data.xml
+D:\Git\BikeLivery\BikeLivery\bin\Microsoft.Web.WebPages.OAuth.xml
+D:\Git\BikeLivery\BikeLivery\bin\WebMatrix.WebData.xml
+D:\Git\BikeLivery\BikeLivery\bin\DotNetOpenAuth.AspNet.xml
+D:\Git\BikeLivery\BikeLivery\bin\DotNetOpenAuth.Core.xml
+D:\Git\BikeLivery\BikeLivery\bin\DotNetOpenAuth.OAuth.Consumer.xml
+D:\Git\BikeLivery\BikeLivery\bin\DotNetOpenAuth.OAuth.xml
+D:\Git\BikeLivery\BikeLivery\bin\DotNetOpenAuth.OpenId.xml
+D:\Git\BikeLivery\BikeLivery\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+D:\Git\BikeLivery\BikeLivery\bin\System.Web.Http.OData.xml
+D:\Git\BikeLivery\BikeLivery\bin\Microsoft.Data.Edm.xml
+D:\Git\BikeLivery\BikeLivery\bin\Microsoft.Data.OData.xml
+D:\Git\BikeLivery\BikeLivery\bin\System.Spatial.xml
+D:\Git\BikeLivery\BikeLivery\bin\ru\WebMatrix.Data.resources.dll
+D:\Git\BikeLivery\BikeLivery\bin\de\Microsoft.Data.Edm.resources.dll
+D:\Git\BikeLivery\BikeLivery\bin\es\Microsoft.Data.Edm.resources.dll
+D:\Git\BikeLivery\BikeLivery\bin\fr\Microsoft.Data.Edm.resources.dll
+D:\Git\BikeLivery\BikeLivery\bin\it\Microsoft.Data.Edm.resources.dll
+D:\Git\BikeLivery\BikeLivery\bin\ja\Microsoft.Data.Edm.resources.dll
+D:\Git\BikeLivery\BikeLivery\bin\ko\Microsoft.Data.Edm.resources.dll
+D:\Git\BikeLivery\BikeLivery\bin\ru\Microsoft.Data.Edm.resources.dll
+D:\Git\BikeLivery\BikeLivery\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+D:\Git\BikeLivery\BikeLivery\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+D:\Git\BikeLivery\BikeLivery\bin\de\Microsoft.Data.OData.resources.dll
+D:\Git\BikeLivery\BikeLivery\bin\es\Microsoft.Data.OData.resources.dll
+D:\Git\BikeLivery\BikeLivery\bin\fr\Microsoft.Data.OData.resources.dll
+D:\Git\BikeLivery\BikeLivery\bin\it\Microsoft.Data.OData.resources.dll
+D:\Git\BikeLivery\BikeLivery\bin\ja\Microsoft.Data.OData.resources.dll
+D:\Git\BikeLivery\BikeLivery\bin\ko\Microsoft.Data.OData.resources.dll
+D:\Git\BikeLivery\BikeLivery\bin\ru\Microsoft.Data.OData.resources.dll
+D:\Git\BikeLivery\BikeLivery\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+D:\Git\BikeLivery\BikeLivery\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+D:\Git\BikeLivery\BikeLivery\bin\de\System.Spatial.resources.dll
+D:\Git\BikeLivery\BikeLivery\bin\es\System.Spatial.resources.dll
+D:\Git\BikeLivery\BikeLivery\bin\fr\System.Spatial.resources.dll
+D:\Git\BikeLivery\BikeLivery\bin\it\System.Spatial.resources.dll
+D:\Git\BikeLivery\BikeLivery\bin\ja\System.Spatial.resources.dll
+D:\Git\BikeLivery\BikeLivery\bin\ko\System.Spatial.resources.dll
+D:\Git\BikeLivery\BikeLivery\bin\ru\System.Spatial.resources.dll
+D:\Git\BikeLivery\BikeLivery\bin\zh-Hans\System.Spatial.resources.dll
+D:\Git\BikeLivery\BikeLivery\bin\zh-Hant\System.Spatial.resources.dll
+D:\Git\BikeLivery\BikeLivery\obj\Debug\BikeLivery.csprojResolveAssemblyReference.cache
+D:\Git\BikeLivery\BikeLivery\obj\Debug\BikeLivery.dll
+D:\Git\BikeLivery\BikeLivery\obj\Debug\BikeLivery.pdb

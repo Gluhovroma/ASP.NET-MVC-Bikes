@@ -1,0 +1,275 @@
+﻿@{
+    ViewBag.Title = "About";
+}
+
+<hgroup class="title">
+    <h1>@ViewBag.Title.</h1>
+    <h2>@ViewBag.Message</h2>
+</hgroup>
+
+<div style="width:70%; float:left;">
+    <table class="Orders">
+        <tr>
+            <td>Номер заказа</td> 
+            <td>Инвентарный номер велосипеда</td>   
+            <td>Начало проката</td> 
+            <td>Конец проката</td> 
+            <td>Клиент</td>              
+            <td>Начальная точка</td>  
+            <td>Конечная точка</td>  
+            <td>Статус</td>
+            <td>Стоимость</td>
+        </tr>
+        @foreach (var Order in ViewBag.Orders)
+        {
+            <tr>
+                <td class ="OrderID" id=" @Order.OrderID"> 
+                    @Order.OrderID
+                </td>
+                
+                <td> 
+                    <select class="InventoryNum" name ="InventoryNum" id="InventoryNum">                       
+                        @foreach (var Bike in ViewBag.Bikes)
+                        {
+                            if (Order.InventoryNumber == Bike.InventoryNumber)
+                            { 
+                                <option selected value="@Bike.BikeID"> @Bike.InventoryNumber </option>
+                            }
+                            else
+                            {
+                                <option value="@Bike.BikeID" >@Bike.InventoryNumber</option>
+                            }                        
+                        }                                         
+                    </select>
+                </td>
+                <td>
+                    <input class="DateTimeStart" type="datetime" id="DateTimeStart" name="DateTimeStart" value = "@Order.StartDateTime" style="width: 155px" />                        
+                </td>
+                <td>
+                    <input class="DateTimeEnd" type="datetime" id="DateTimeEnd" name="DateTimeEnd" value = "@Order.EndDateTime" style="width: 155px" /> 
+                </td>
+                <td>
+                    <select class="Client" name ="Client" id="Client">
+                        @foreach (var Client in ViewBag.Clients)
+                        {
+                            if (Order.Client == Client.SurName)
+                            { 
+                                <option selected value="@Client.ClientID"> @Client.SurName </option>
+                            }
+                            else
+                            {
+                                <option value="@Client.ClientID" >@Client.SurName</option>
+                            }                        
+                        }                                    
+                    </select>
+                </td>
+                <td>
+                    <select class="LiveryStart" name ="LiveryStart" id="LiveryStart">
+                        @foreach (var Livery in ViewBag.Liveries)
+                        {
+                            if (Order.LiveryStart == Livery.Address)
+                            { 
+                                <option selected value="@Livery.LiveryID"> @Livery.Address </option>
+                            }
+                            else
+                            {
+                                <option value="@Livery.LiveryID" >@Livery.Address</option>
+                            }                        
+                        }                                    
+                    </select>
+                </td>
+                <td>
+                    <select class="LiveryEnd" name ="LiveryEnd" id="LiveryEnd">
+                        @foreach (var Livery in ViewBag.Liveries)
+                        {
+                            if (Order.LiveryEnd == Livery.Address)
+                            { 
+                                <option selected value="@Livery.LiveryID"> @Livery.Address </option>
+                            }
+                            else
+                            {
+                                <option value="@Livery.LiveryID" >@Livery.Address</option>
+                            }                        
+                        }                                    
+                    </select>
+                </td>
+                <td>
+                    <select class="Status" name ="Status" id="Status">
+                        @foreach (var Status in ViewBag.Statuses)
+                        {
+                            if (Order.Status == Status.StatusName)
+                            { 
+                                <option selected value="@Status.StatusID"> @Status.StatusName </option>
+                            }
+                            else
+                            {
+                                <option value="@Status.StatusID" >@Status.StatusName</option>
+                            }                        
+                        }                                    
+                    </select>
+                </td>
+               <td>
+                   <input type="text" id="TotalPrice" name="TotalPrice" class="TotalPrice" style="width:70px" value = "@Order.TotalPrice" style="width: 155px" />
+               </td>
+                <td> <input id="Delete" class="Delete" type="button" value="Удалить" /></td>
+            </tr>                 
+        }
+        
+
+    </table>
+    <h3>Добавить новую запись</h3>
+    <table>
+        <tr>           
+            <td>Инвентарный номер велосипеда</td>   
+            <td>Начало проката</td> 
+            <td>Конец проката</td> 
+            <td>Клиент</td>              
+            <td>Начальная точка</td>  
+            <td>Конечная точка</td>  
+            <td>Статус</td>
+            <td>Стоимость</td>
+        </tr>
+        
+            <tr>
+                <td>
+                    <select class="InventoryNumNew" name ="InventoryNumNew" id="InventoryNumNew">                       
+                    @foreach (var Bike in ViewBag.Bikes)
+                    {    
+                    <option value="@Bike.BikeID" >@Bike.InventoryNumber</option>
+                    }                                                               
+                    </select>
+                </td> 
+                <td>
+                    <input class="DateTimeStartNew" type="datetime" id="DateTimeStartNew" name="DateTimeStartNew" value = "@ViewBag.DateTimeNow" style="width: 155px" />
+                </td>  
+                <td>
+                    <input class="DateTimeEndNew" type="datetime" id="DateTimeEndNew" name="DateTimeEndNew" value = "@ViewBag.DateTimeNow" style="width: 155px" />
+                </td> 
+                 <td>
+                    <select class="ClientOrdNew" name ="ClientOrdNew" id="ClientOrdNew">                       
+                    @foreach (var Client in ViewBag.Clients)
+                    {    
+                    <option value="@Client.ClientID" >@Client.SurName</option>
+                    }                                                               
+                    </select>
+                </td>
+                <td>
+                    <select class="LiveryStartNew" name ="LiveryStartNew" id="LiveryStartNew">                       
+                    @foreach (var Livery in ViewBag.Liveries)
+                    {    
+                    <option value="@Livery.LiveryID" >@Livery.Address</option>
+                    }                                                               
+                    </select>
+                </td>  
+                <td>
+                    <select class="LiveryEndNew" name ="LiveryEndNew" id="LiveryEndNew">                       
+                    @foreach (var Livery in ViewBag.Liveries)
+                    {    
+                    <option value="@Livery.LiveryID" >@Livery.Address</option>
+                    }                                                               
+                    </select>
+                </td>   
+                <td>
+                    <select class="StatusNew" name ="StatusNew" id="StatusNew">                       
+                    @foreach (var Status in ViewBag.Statuses)
+                    {    
+                    <option value="@Status.StatusID" >@Status.StatusName</option>
+                    }                                                               
+                    </select>
+                </td>
+                <td>
+                    <input type="text" id="TotalPriceNew" name="TotalPriceNew" class="TotalPriceNew" style="width:70px" value = "" style="width: 155px" />
+                </td>                     
+            </tr>
+        
+    </table>
+    <input id="ButtonAddRecord" class="ButtonAddRecord" type="button" value="Добавить" />
+    <a href="Edit">Обновить страницу</a>
+</div>
+<script src="http://code.jquery.com/jquery-2.1.1.min.js"></script>
+<script>
+    $(document).ready(function() {
+        $(".InventoryNum, .Client, .DateTimeStart, .DateTimeEnd, .Client, .LiveryStart, .LiveryEnd, .Status, .TotalPrice ").change(function () {
+            var id = $(this).attr("id");
+            var value = $(this).attr("value");
+            var oldid = $(this).parents("tr").children(".OrderID").attr("id");
+            var data = {
+                ID: id,
+                Value: value,
+                OldID: oldid
+            };
+
+            var strData = JSON.stringify(data);
+                       
+            $.ajax({
+                url: '@Url.Action("DataEdit")',
+                type: "POST",
+                data: { "strData" : strData }
+            });
+        });
+        $(".Delete").click(function () {
+            //var id = $(this).attr("id");
+            //var value = $(this).attr("value");
+            
+            var DeleteId = $(this).parents("tr").children(".OrderID").attr("id");            
+            var data = {
+                IDToDelete: DeleteId
+            };
+            $(this).parents("tr").remove();
+            var strDataDelete = JSON.stringify(data);
+
+            $.ajax({
+                url: '@Url.Action("DataDelete")',
+                type: "POST",
+                data: { "strDataDelete": strDataDelete }
+            });
+        });
+        $("#ButtonAddRecord").click(function () {
+            //var id = $(this).attr("id");
+            //var value = $(this).attr("value");
+
+            //var DeleteId = $(this).parents("tr").children(".OrderID").attr("id");
+            
+            var InventoryNumNew = $('.InventoryNumNew>option:selected').attr('value');
+            var DateTimeStartNew = $('#DateTimeStartNew').attr('value');
+            var DateTimeEndNew = $('#DateTimeEndNew').attr('value');
+            var ClientOrdNew = $('.ClientOrdNew>option:selected').attr('value');
+            var LiveryStartNew = $('.LiveryStartNew>option:selected').attr('value');
+            var LiveryEndNew = $('.LiveryStartNew>option:selected').attr('value');
+            var StatusNew = $('.StatusNew>option:selected').attr('value');
+            var TotalPriceNew = $('#TotalPriceNew').attr('value');
+            var data = {
+                BikeIDNew: InventoryNumNew,
+                DateTimeStartNew: DateTimeStartNew,
+                DateTimeEndNew: DateTimeEndNew,
+                ClientOrdIDNew: ClientOrdNew,
+                LiveryStartIDNew: LiveryStartNew,
+                LiveryEndIDNew: LiveryEndNew,
+                StatusIDNew: StatusNew,
+                TotalPriceNew: TotalPriceNew
+
+
+            };
+            
+            //$(this).parents("tr").remove();
+            var strDataToAdd = JSON.stringify(data);
+            $("tr").appendTo(".Orders")
+            $.ajax({
+                url: '@Url.Action("DataAdd")',
+                type: "POST",
+                data: { "strDataToAdd": strDataToAdd }
+            });
+        });
+    });    
+</script>
+@*<aside>
+    <h3>Aside Title</h3>
+    <p>
+        Use this area to provide additional information.
+    </p>
+    <ul>
+        <li>@Html.ActionLink("Home", "Index", "Home")</li>
+        <li>@Html.ActionLink("About", "About", "Home")</li>
+        <li>@Html.ActionLink("Contact", "Contact", "Home")</li>
+    </ul>
+</aside>*@
